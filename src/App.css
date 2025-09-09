@@ -34,8 +34,8 @@ a {
 }
 
 .logo {
-  font-size: 1.5rem;
-  font-weight: bold;
+  font-size: 1rem;
+  
 
 }
 
@@ -243,11 +243,19 @@ section {
   font-size: 1.1rem;
 }
 .hero-title {
-  font-size: 3.5rem;
+  font-size: 2.5rem;
   margin-bottom: 12px;
   font-family: 'Edu NSW ACT Foundation', cursive;
-  font-weight: 500;
-  letter-spacing: 0.5px;
+  font-weight: 900;
+  letter-spacing: 0.3px;
+}
+.logo {
+  font-family: 'Kode Mono', 'Fira Code', monospace;
+  font-weight: 700;
+  font-size: 1.6rem;
+  letter-spacing: 0.06em;
+  text-transform: none; /* or uppercase if you prefer */
+  color: inherit;
 }
 
 
